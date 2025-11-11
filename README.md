@@ -81,6 +81,53 @@ Verification of requirements:
 Review of documentation completeness
 Validation of requirement accuracy
 
+Types of Requirements
+Functional Requirements
+Functional requirements define what the system must do, describing the specific functions and features that the system needs to perform. For the booking management project, these include:
+
+User Management:
+System must allow users to create and manage their accounts
+System must enable password reset functionality
+System must support user profile updates
+
+Booking Operations:
+System must allow users to search available rooms by date and type
+System must enable booking creation with payment processing
+System must support booking modification and cancellation
+
+Room Management:
+System must display real-time room availability
+System must handle room type categorization
+System must manage room pricing and inventory
+
+Payment Processing:
+System must integrate with multiple payment gateways
+System must handle payment verification
+System must generate payment receipts
+
+Non-functional Requirements
+Non-functional requirements define how the system should perform, describing the constraints and quality attributes of the system. For the booking management project, these include:
+
+Performance Requirements:
+System must respond to user actions within 2 seconds
+System must handle at least 100 concurrent users
+System must process payments within 5 seconds
+
+Security Requirements:
+System must encrypt all payment information
+System must implement role-based access control
+System must maintain audit logs of all transactions
+
+Usability Requirements:
+System must provide an intuitive booking interface
+System must support responsive design for mobile devices
+System must offer clear error messages and validation feedback
+
+Reliability Requirements:
+System must maintain data consistency across all operations
+System must recover automatically from failures
+System must maintain data integrity during concurrent operations
+
 
 ## Use Case Diagrams
 
