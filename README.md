@@ -41,7 +41,45 @@ Provides a reference point for all project decisions
 
 This systematic approach to requirement analysis ensures that software development projects are well-planned, properly executed, and meet stakeholder expectations while minimizing risks and costs.
 
+Key Activities in Requirement Analysis
+The following five key activities form the core of the requirement analysis process:
 
+1. Requirement Gathering
+Collection of initial requirements through various methods:
+Stakeholder interviews and surveys
+Review of existing documentation
+Analysis of similar systems
+Market research and trend analysis
+Competitor analysis
+
+2. Requirement Elicitation
+Systematic extraction of requirements through:
+Workshops and group sessions
+One-on-one interviews
+Observation of current processes
+Questionnaires and surveys
+Use cases and user stories
+
+
+3. Requirement Documentation
+Creation of clear, unambiguous documentation:
+Writing of formal requirement specifications
+Development of user stories
+Creation of use cases
+Documentation of acceptance criteria
+Establishment of traceability matrices
+
+4. Requirement Analysis and Modeling
+Technical evaluation of requirements:
+Creation of data flow diagrams
+Development of entity-relationship diagrams
+Construction of use case diagrams
+Analysis of system interfaces
+
+6. Requirement Validation
+Verification of requirements:
+Review of documentation completeness
+Validation of requirement accuracy
 
 
 ## Use Case Diagrams
