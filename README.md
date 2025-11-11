@@ -148,3 +148,43 @@ Benefits of Use Case Diagrams:
 
 The following diagram illustrates the use cases for a booking system:
 [![Booking System Use Cases](docs/images/alx-booking-uc.png)](docs/images/alx-booking-uc.png)
+Acceptance Criteria
+Acceptance criteria are specific conditions that a software product, feature, or user story must satisfy to be considered complete and acceptable by stakeholders 6sigma.us. They serve as a bridge between what stakeholders expect and what development teams deliver, acting as quality gates that ensure all requirements are properly met.
+
+Importance in Requirement Analysis
+Acceptance criteria play several crucial roles in requirement analysis:
+
+Clear Direction
+Provides specific, measurable conditions for development teams
+Ensures all stakeholders have a shared understanding of requirements
+Helps establish objective measures for quality assurance
+Project Success Factors
+Reduces development cycles by 25-30% through clear requirements
+Facilitates more accurate effort estimation
+Helps manage stakeholder expectations effectively
+Ensures comprehensive test coverage
+Quality Assurance
+Provides clear criteria for testing and validation
+Ensures all requirements are properly implemented
+Facilitates traceability throughout development
+Helps identify and address issues early
+Example: Checkout Feature Acceptance Criteria
+For the booking management system's Checkout feature, here are the acceptance criteria using the Given-When-Then format 6sigma.us:
+
+
+
+Feature: Checkout Process
+As a user
+I want to complete the booking checkout process
+So that I can confirm my room reservation
+
+Acceptance Criteria:
+
+Scenario 1: Successful Payment Processing
+Given that I have selected a room and entered valid payment details
+When I click the "Complete Booking" button
+Then:
+- The system processes the payment successfully
+- A booking confirmation is generated
+- A confirmation email is sent to my registered email
+- The booking status is updated to "Confirmed"
